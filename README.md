@@ -1,6 +1,6 @@
 I am an PhD student of CVnext Lab at Zhejiang University, advised by Professor Gaoang Wang. I am currently working on 3D vision, generative model, and anomaly detection.
 
-When I am not doing research, I like working out and singing.
+When I am not doing research, I like working out, singing and reading.
 
 <div align="center">
 <a href="https://whxf7.github.io/" target="_blank">
