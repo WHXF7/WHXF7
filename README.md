@@ -21,7 +21,6 @@ When I am not doing research, I like working out and singing.
 <ul>
 	<li><i>Mar 2023:</i> <i class="fa-regular fa-note-sticky" style="font-size:20px"></i> Our paper <i>Deep Learning Methods for Small Molecule Drug Discovery: A Survey</i> is accepted by IEEE T-AI.
 	</li><br>
-
 	<li><i>Mar 2023:</i> <i class="fa-regular fa-note-sticky" style="font-size:20px"></i> Our paper <i>Learning Discrimination from Contaminated Data: Multi-Instance Learning for Unsupervised Anomaly Detection</i> is accepted by ICME.
 	</li><br>
 </ul>
